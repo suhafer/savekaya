@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SaveKaya</string>
+    <string name="post">Report</string>
+    <string name="add_image">Add Image</string>
+    <string name="image_description">Image</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="title">Title</string>
+    <string name="location">Location</string>
+    <string name="category">Category</string>
+    <string name="description">Why report this man ?</string>
+</resources>
